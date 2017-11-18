@@ -1,0 +1,2 @@
+webpackJsonp([1],{lO7g:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0,!1,!1)},r=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("p",[e._v("Dre-Tastic splash page")]),n("p")])}],s={render:l,staticRenderFns:r},u=s,a=n("VU/8"),c=a(null,u,!1,null,null,null);t.default=c.exports}});
+//# sourceMappingURL=1.cd9f5772e3d8c8347e65.js.map
